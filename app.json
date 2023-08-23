@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Evertel/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://graph.org/file/f46cae4521dcbdc601cce.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
