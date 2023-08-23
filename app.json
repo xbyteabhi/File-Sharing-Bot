@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "<b>Hᴇʟʟᴏ {first}\n\nI Cᴀɴ Sᴛᴏʀᴇ Pʀɪᴠᴀᴛᴇ Fɪʟᴇꜱ Iɴ Sᴘᴇᴄɪꜰɪᴇᴅ Cʜᴀɴɴᴇʟ Aɴᴅ Oᴛʜᴇʀ Uꜱᴇʀꜱ Cᴀɴ Aᴄᴄᴇꜱꜱ Iᴛ Fʀᴏᴍ Sᴘᴇᴄɪᴀʟ Lɪɴᴋ.\nBᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @TechyTel 💞</b>"
+      "value": "<b>Hᴇʟʟᴏ {first}\nI Aᴍ Aᴅᴠᴀɴᴄᴇ Fɪʟᴇ Sʜᴀʀɪɴɢ Bᴏᴛ.\nAᴅᴍɪɴꜱ Cᴀɴ Sᴛᴏʀᴇ Fɪʟᴇꜱ Iɴ Mʏ DᴀᴛᴀBᴀꜱᴇ Aɴᴅ Uꜱᴇʀꜱ Cᴀɴ Aᴄᴄᴇꜱꜱ Iᴛ Fʀᴏᴍ Sᴘᴇᴄɪᴀʟ Lɪɴᴋ.\nBᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @TechyTel 💞</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
