@@ -56,7 +56,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "❌ Don't Send Me Messages Directly, I Can Only Share Files!, If You Want Any Help Contact @Sasukex1"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(5939120735)
+ADMINS.append(6221418295)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
